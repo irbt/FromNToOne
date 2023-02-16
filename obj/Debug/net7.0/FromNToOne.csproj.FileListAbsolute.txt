@@ -1,0 +1,15 @@
+C:\Mon_Code\FromNToOne\bin\Debug\net7.0\FromNToOne.exe
+C:\Mon_Code\FromNToOne\bin\Debug\net7.0\FromNToOne.deps.json
+C:\Mon_Code\FromNToOne\bin\Debug\net7.0\FromNToOne.runtimeconfig.json
+C:\Mon_Code\FromNToOne\bin\Debug\net7.0\FromNToOne.dll
+C:\Mon_Code\FromNToOne\bin\Debug\net7.0\FromNToOne.pdb
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\FromNToOne.csproj.AssemblyReference.cache
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\FromNToOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\FromNToOne.AssemblyInfoInputs.cache
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\FromNToOne.AssemblyInfo.cs
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\FromNToOne.csproj.CoreCompileInputs.cache
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\FromNToOne.dll
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\refint\FromNToOne.dll
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\FromNToOne.pdb
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\FromNToOne.genruntimeconfig.cache
+C:\Mon_Code\FromNToOne\obj\Debug\net7.0\ref\FromNToOne.dll
